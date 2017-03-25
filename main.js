@@ -1,7 +1,7 @@
 
 var HP = 100;
 var score = 0;
-var $$ = 70;
+var $$ = 100;
 var FPS = 60;
 var clock = 0;
 // 創造 img HTML 元素，並放入變數中
